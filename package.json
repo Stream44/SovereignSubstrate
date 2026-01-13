@@ -1,0 +1,13 @@
+{
+    "name": "@sovereignsubstrate.org/sovereignsubstrate.org",
+    "version": "0.1.0",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
+    "config": {
+        "o": {
+            "stream44.studio": {}
+        }
+    }
+}
