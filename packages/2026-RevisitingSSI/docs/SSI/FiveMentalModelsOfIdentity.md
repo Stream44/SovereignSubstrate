@@ -1,3 +1,5 @@
+https://medium.com/@christoph.diy/a-visual-representation-of-the-five-mental-models-of-identity-e01bf96f9186
+
 https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/mental-models.md
 
 # Five Mental Models of Identity
