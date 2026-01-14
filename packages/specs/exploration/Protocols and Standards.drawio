@@ -1,0 +1,46 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
+  <diagram id="mQuieL0GjJxaHVP4G9-b" name="Page-1">
+    <mxGraphModel dx="1405" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dCBOR" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Known Values" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CESR" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MzuxlDSF9AtdIdMzS2P5-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Composable Event Streaming Representation (CESR)&lt;/b&gt;&lt;div&gt;&lt;a href=&quot;https://weboftrust.github.io/ietf-cesr/draft-ssmith-cesr.html&quot;&gt;https://weboftrust.github.io/ietf-cesr/draft-ssmith-cesr.html&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Efficiently work with streaming text and binary data.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="400" x="200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MzuxlDSF9AtdIdMzS2P5-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Deterministic&amp;nbsp;Concise Binary Object Representation&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;a href=&quot;https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/&quot; style=&quot;background-color: transparent;&quot;&gt;https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/&lt;/a&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Deterministically format binary data for transport and storage.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="400" x="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MzuxlDSF9AtdIdMzS2P5-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Known Values: A Compact, Deterministic Representation for Ontological Concepts&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;a href=&quot;https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2023-002-known-value.md&quot;&gt;https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2023-002-known-value.md&lt;/a&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Reference ontological concepts with minimal bytes.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="200" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MzuxlDSF9AtdIdMzS2P5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IPLD" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="MzuxlDSF9AtdIdMzS2P5-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Composable Event Streaming Representation (CESR)&lt;/b&gt;&lt;div&gt;&lt;a href=&quot;https://weboftrust.github.io/ietf-cesr/draft-ssmith-cesr.html&quot;&gt;https://weboftrust.github.io/ietf-cesr/draft-ssmith-cesr.html&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Link content-addressable data structures into&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;content-addressable&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;objects.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="400" x="200" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="MzuxlDSF9AtdIdMzS2P5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CID" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MzuxlDSF9AtdIdMzS2P5-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;b&gt;Content Identifier&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;a href=&quot;https://docs.ipfs.tech/concepts/how-ipfs-works/#how-ipfs-represents-and-addresses-data&quot;&gt;https://docs.ipfs.tech/concepts/how-ipfs-works/#how-ipfs-represents-and-addresses-data&lt;/a&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Efficiently work with streaming text and binary data.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="520" x="200" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MzuxlDSF9AtdIdMzS2P5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CAR" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="MzuxlDSF9AtdIdMzS2P5-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;b&gt;Content Addressable Archives&lt;/b&gt;&lt;/div&gt;&lt;a href=&quot;https://ipld.io/specs/transport/car/carv1/&quot;&gt;https://ipld.io/specs/transport/car/carv1/&lt;/a&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Conveniently store content-addressable objects as a sequence if bytes.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="400" x="200" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
